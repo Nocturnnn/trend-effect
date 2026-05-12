@@ -1,0 +1,6 @@
+node_modules
+.next
+out
+next-*.log
+screenshot-*.png
+.edge-profile-*
